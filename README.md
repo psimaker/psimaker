@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Umo - AI Enthusiast
 
-🚀 **Passionate DevOps Engineer** with expertise in container orchestration, infrastructure automation, and AI integration. I build scalable, self-hosted solutions that demonstrate modern DevOps practices.
+🚀 **Passionate DevOps Engineer** with expertise in container orchestration, infrastructure automation, and AI integration. I build scalable, self-hosted solutions.
 
 ## 🛠️ Tech Stack & Skills
 
