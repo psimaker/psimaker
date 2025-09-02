@@ -29,14 +29,14 @@ A comprehensive Docker-based home laboratory with 40+ containers showcasing mode
 - **Monitoring & Management** (Portainer, Prometheus, Watchtower)
 - **Media & Storage** (Immich, Plex, Nextcloud)
 
-### 🔍 [LOOGI Search Platform](https://github.com/psimaker/loogi)
+### 🔍 [LOOGI Search Platform](https://github.com/psimaker/homelab)
 A privacy-focused, AI-enhanced search engine platform featuring:
 - **SearxNG** metasearch engine with custom integrations
 - **Redis caching** for performance optimization  
 - **Dockerized deployment** with secure networking
 - **Custom themes** and UI enhancements
 
-### 📄 [AI Document Processing](paperless-ai)
+### 📄 [AI Document Processing](https://github.com/psimaker/homelab)
 Intelligent document management system with:
 - **AI-powered OCR** and text extraction
 - **Machine learning** for document classification
