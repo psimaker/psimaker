@@ -43,10 +43,6 @@ Intelligent document management system with:
 - **Automated workflows** for document processing
 - **Secure storage** and encryption
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=psimaker&show_icons=true&theme=radical)
-
 ## 🎯 What I'm Currently Working On
 
 - 🔧 **Optimizing container orchestration** with Kubernetes
