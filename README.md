@@ -45,10 +45,14 @@ Intelligent document management system with:
 
 ## 🎯 What I'm Currently Working On
 
-- 🔧 **Optimizing container orchestration** with Kubernetes
-- 🤖 **Integrating AI capabilities** into existing infrastructure
-- 📊 **Improving monitoring** with Prometheus and Grafana
-- 🚀 **Automating deployments** with CI/CD pipelines
+- ☸️ **Pragmatic path to Kubernetes**  
+  Prototyping **K3s** on a **Mac Studio cluster** (near-term) to serve large LLMs; non-critical workloads remain **Docker-first**.
+- 🤖 **AI in production-like workflows**  
+  Building **n8n** projects with **complex AI agents** and operating local LLMs (Ollama/OpenWebUI).
+- 📈 **Strategy R&D with Freqtrade + ML**  
+  Backtesting, hyperparameter tuning, and risk controls in Docker — exporting health metrics to **Prometheus**.
+- 🛠️ **Observability & reliability**  
+  Right-sized **Prometheus/Grafana** dashboards, alert hygiene, and periodic **backup/restore drills** for Immich, Nextcloud, Paperless.
 
 ## 📫 Let's Connect!
 
