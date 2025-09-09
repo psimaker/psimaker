@@ -39,7 +39,7 @@ An advanced, AI-powered prompt enhancer that turns rough ideas into precise, pro
 - **Modern UI/UX:** React + TypeScript, dark/light mode, responsive, copy-to-clipboard
 - **Secure backend:** Node.js/Express, rate limiting, input sanitization, prompt-injection protection
 - **Docker-ready** with configurable ports and health endpoints
-- **API-compatible** with DeepSeek & OpenAI
+- **API-compatible** with DeepSeek, OpenAI & OpenWebUI
 
 ### 🔍 [LOOGI Search Platform](https://github.com/psimaker/homelab)
 A privacy-focused, AI-enhanced search engine platform featuring:
