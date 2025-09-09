@@ -29,6 +29,18 @@ A comprehensive Docker-based home laboratory with 40+ containers showcasing mode
 - **Monitoring & Management** (Portainer, Prometheus, Watchtower)
 - **Media & Storage** (Immich, Plex, Nextcloud)
 
+### ⚡ [LOOGI Prompt Supercharger](https://github.com/psimaker/LOOGI-Prompt-Supercharger)
+
+An advanced, AI-powered prompt enhancer that turns rough ideas into precise, production-ready instructions.
+
+- **Contract-based output enforcement** (regex validation, auto re-prompting, zero meta-output)
+- **Multiple modes:** Standard, Creative, Technical, Concise + task modes (Code, JSON, Analysis, Translation, Summarization)
+- **Deterministic processing** with seed control for consistent results
+- **Modern UI/UX:** React + TypeScript, dark/light mode, responsive, copy-to-clipboard
+- **Secure backend:** Node.js/Express, rate limiting, input sanitization, prompt-injection protection
+- **Docker-ready** with configurable ports and health endpoints
+- **API-compatible** with DeepSeek & OpenAI
+
 ### 🔍 [LOOGI Search Platform](https://github.com/psimaker/homelab)
 A privacy-focused, AI-enhanced search engine platform featuring:
 - **SearxNG** metasearch engine with custom integrations
