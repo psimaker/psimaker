@@ -46,5 +46,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psimaker&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=psimaker&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub Stats" />
 </p>
