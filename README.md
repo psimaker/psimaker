@@ -35,6 +35,10 @@
 
 **[Homelab](https://github.com/psimaker/homelab)** — Docker-based home infrastructure running 40+ containers across AI, media, storage, and automation stacks. Includes local LLMs via Ollama with GPU passthrough, monitoring with Prometheus/Grafana, and automated updates.
 
+**[CKA Prep](https://github.com/psimaker/cka-prep)** — Hands-on labs and scripts for the Certified Kubernetes Administrator exam. Covers all exam domains on a bare-metal kubeadm cluster (3x Raspberry Pi 4, Calico CNI).
+
+**[Twitter/X Spy Link Remover](https://github.com/psimaker/twitter-x-spy-link-remover)** — Browser extension that strips t.co tracking redirects from Twitter/X links, restoring direct URLs for privacy.
+
 ---
 
 ### Currently learning
