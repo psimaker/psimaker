@@ -1,11 +1,10 @@
-# Hi, I'm Umo
+### Hi, I'm Umo
 
-Career changer moving into DevOps & Cloud Engineering, based in Switzerland.
+DevOps Engineer
 
-I run a [homelab](https://github.com/psimaker/homelab) with 40+ containers since 2021 — that's where I learn by breaking and fixing things in production.
+- Nextcloud Contributor [nextcloud/server](https://github.com/nextcloud/server/pull/59317) — merged and backported to stable32/33
+- Running a production homelab since 2021: 40+ containers, Nginx reverse proxy, WireGuard VPN, Prometheus/Grafana monitoring
+- Containerized full-stack deployments with Docker Compose and CI/CD
+- Preparing for CKA certification (2026)
 
-**Nextcloud Server Contributor** [PR #59317](https://github.com/nextcloud/server/pull/59317)
-
-Currently preparing for the [Certified Kubernetes Administrator (CKA)](https://github.com/psimaker/cka-prep) exam.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/umut-erdem)
+📍 Switzerland
