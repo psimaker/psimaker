@@ -89,13 +89,6 @@ I contribute fixes when I run into something broken or annoying enough to invest
 
 ---
 
-## Links
-
-- Website: [loogi.ch](https://loogi.ch)
-- X/Twitter: [@umothegreat](https://x.com/umothegreat)
-
----
-
 <div align="center">
 
 Automate first. Regret later. Fix properly after coffee.
