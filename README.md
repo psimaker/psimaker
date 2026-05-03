@@ -71,22 +71,7 @@ Works with Tampermonkey / Violentmonkey.
 
 I contribute fixes when I run into something broken or annoying enough to investigate.
 
-Merged:
-
 - [Nextcloud Server PR #59317](https://github.com/nextcloud/server/pull/59317)
-
-Open / recent PRs:
-
-- Molecule
-- Grafana
-- Voicebox
-
----
-
-## Tools I use a lot
-
-<p>
-  </p>
 
 ---
 
