@@ -34,6 +34,12 @@ I built this because I wanted a self-hosted way to keep my notes on iPhone and i
 
 ---
 
+### [LOOGI](https://github.com/psimaker/loogi)
+A privacy-focused web search engine, live at [loogi.ch](https://loogi.ch).
+Built on [SearXNG](https://github.com/searxng/searxng) — same engine, same Python runtime — but with a hardcoded custom theme, a curated engine list, and a deployment pattern that bakes config and theme into the Docker image at build time instead of mounting volumes at runtime.
+
+---
+
 ### [Homelab](https://github.com/psimaker/homelab)
 
 My home infrastructure. Hosts [loogi.ch](https://loogi.ch) in production.
