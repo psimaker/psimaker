@@ -36,22 +36,23 @@ I built this because I wanted a self-hosted way to keep my notes on iPhone and i
 
 ### [Homelab](https://github.com/psimaker/homelab)
 
-My home infrastructure setup.
+My home infrastructure. Hosts [loogi.ch](https://loogi.ch) in production.
 
-It's a Docker-based homelab running services for storage, monitoring, automation, media, networking, and local AI workloads.
+Two tiers, deliberately split: a Kubernetes platform for new workloads, a Docker Compose dataplane for the stateful giants. Replatforming Plex, Nextcloud and the rest to k8s would buy nothing and cost weeks, so they stay on Compose with proper config-mgmt and observability around them.
 
 Some of the stack:
 
-- Debian
-- Docker Compose
-- Nginx Proxy Manager
-- WireGuard
-- Prometheus / Grafana
-- Nextcloud
-- Immich
-- Paperless-ngx
-- n8n
-- Ollama / OpenWebUI
+- k3s + Cilium + Flux v2 (GitOps)
+- OpenTofu + Ansible (Hetzner edge + airbase home)
+- Cloudflare Tunnel + Traefik + cert-manager
+- Self-hosted Headscale (own Tailscale control-plane) and Pocket-ID (OIDC)
+- kube-prometheus-stack + Loki + Tempo + Beszel — internal-only
+- SOPS + age for secrets, encrypted in the public repo
+- restic 3-2-1 backup (Hetzner Storage Box + Backblaze B2), weekly restore test
+- Renovate self-hosted, auto-merge on patch+minor
+- Tier-2 still runs: Plex, *arr, Nextcloud-AIO, Immich, Paperless, Vaultwarden, Gitea, n8n, Syncthing, ntfy, …
+
+Documented end-to-end: 13 ADRs, runbooks, and post-mortems for the things that actually broke.
 
 It's not meant to be a perfect template. It's more of a working setup that reflects how I actually run things.
 
