@@ -75,9 +75,3 @@ I contribute fixes when I run into something broken or annoying enough to invest
 - [Nextcloud Server PR #59317](https://github.com/nextcloud/server/pull/59317)
 
 ---
-
-<div align="center">
-
-Automate first. Regret later. Fix properly after coffee.
-
-</div>
