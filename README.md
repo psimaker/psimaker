@@ -76,20 +76,6 @@ I contribute fixes when I run into something broken or annoying enough to invest
 
 ---
 
-## Things I'm interested in
-
-- Linux servers
-- Self-hosting
-- Kubernetes
-- Containers
-- Monitoring
-- Automation
-- Privacy-focused tools
-- Practical AI tooling
-- Open-source infrastructure
-
----
-
 <div align="center">
 
 Automate first. Regret later. Fix properly after coffee.
