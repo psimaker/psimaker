@@ -6,9 +6,9 @@
 
 I run Linux boxes, ship native Apple apps, and build privacy-first tools — almost always because I needed the thing myself and didn't feel like renting it back from someone else's cloud. Lately I'm pointing all that automation at a bigger target: **agentic engineering** — getting AI agents to do the real work, not just autocomplete it.
 
-📍 **Switzerland** · ⚙️ **Automation & Platform Engineering** · 🤖 **Heading into agentic engineering**
+📍 **Switzerland** · ⚙️ **DevOps, Automation & Platform Engineering** · 🤖 **Heading into agentic engineering**
 
-💼 *Open to automation, platform-engineering & agentic-AI work.*
+💼 *Open to work.*
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
@@ -94,16 +94,6 @@ If you only click three things:
 [![Email](https://img.shields.io/badge/-ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:umut.erdem@protonmail.com)
 
 🔎 **[loogi.ch](https://loogi.ch)** — the search engine I run · 📝 **[vaultsync.eu](https://vaultsync.eu)** — my app's home
-
-<!-- TODO: persönlicher Blog/Website? In deinem GitHub-Profil sind nur LinkedIn + X hinterlegt — eine eigene Blog-URL habe ich nicht gefunden. Gib sie mir, dann ergänze ich ein Badge. -->
-
----
-
-> ### 💬 Philosophy
->
-> **"Build what you need, ship it, and own it end-to-end."**
->
-> Most of my repos exist because the thing I wanted didn't — or wanted my data in exchange. So I build it, self-host it, and automate the upkeep.
 
 ---
 
