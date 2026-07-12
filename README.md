@@ -31,16 +31,16 @@ If you only click three things:
 
 - 📝 **[VaultSync](https://github.com/psimaker/vaultsync)** — Obsidian notes on your iPhone, synced peer-to-peer over Syncthing. No note cloud, no account, no tracking. **[On the App Store.](https://apps.apple.com/app/vaultsync/id6761845197)**
 - 🔎 **[LOOGI](https://github.com/psimaker/loogi)** — a privacy-first search engine I actually run in production at **[loogi.ch](https://loogi.ch)**.
-- 📊 **[Claude Usage Menu](https://github.com/psimaker/claude-usage-menu)** — your Claude.ai limits in the macOS menu bar, so you never hit the wall mid-flow.
+- 📊 **[codexbar-plasmoid](https://github.com/psimaker/codexbar-plasmoid)** — your AI coding limits (Claude, Codex & 56 more) right in your KDE Plasma panel, so you never hit the wall mid-flow. Listed in [CodexBar](https://github.com/steipete/CodexBar)'s official README.
 
 ---
 
 ## Projects
 
-### 🍎 Apps I ship
+### 📦 Apps I ship
 
 - 📝 **[VaultSync](https://github.com/psimaker/vaultsync)** — self-hosted Obsidian sync for iPhone & iPad. Swift 6 + SwiftUI, with Syncthing embedded via Go/gomobile and an optional push relay. Localized in EN/DE/ES/中文. On the App Store. <br>[![Stars](https://img.shields.io/github/stars/psimaker/vaultsync?style=flat-square&logo=github&color=2AB5B3&label=stars)](https://github.com/psimaker/vaultsync/stargazers)
-- 📊 **[Claude Usage Menu](https://github.com/psimaker/claude-usage-menu)** — macOS menu-bar app showing your real-time Claude.ai usage (5h session, weekly, Sonnet). Reads Claude Code's token from the Keychain; ships as a signed, notarized release.
+- 📊 **[codexbar-plasmoid](https://github.com/psimaker/codexbar-plasmoid)** — KDE Plasma 6 widget that keeps real-time AI provider usage in your panel: session/weekly quotas, pace, credits, local cost, and provider status for Claude, Codex, and 56 more providers. A faithful Linux port of the macOS menu bar app [CodexBar](https://github.com/steipete/CodexBar) — and listed in its official README.
 
 ### 🔒 Privacy on the open web
 
@@ -82,6 +82,7 @@ If you only click three things:
 
 - 🚀 Shipped **[VaultSync](https://apps.apple.com/app/vaultsync/id6761845197)** to the App Store — solo, end to end: code, CI, signing, notarization, release.
 - 🔧 Merged a fix into **[Nextcloud Server](https://github.com/nextcloud/server/pull/59317)** (PR #59317) — fixed something that was annoying.
+- 🔌 Got **[codexbar-plasmoid](https://github.com/psimaker/codexbar-plasmoid)** into **[CodexBar](https://github.com/steipete/CodexBar)**'s official README as a community integration ([PR #2085](https://github.com/steipete/CodexBar/pull/2085)).
 - 📜 Published the **[Spy Link Remover](https://greasyfork.org/scripts/568483-twitter-x-spy-link-remover)** on Greasy Fork.
 
 ---
